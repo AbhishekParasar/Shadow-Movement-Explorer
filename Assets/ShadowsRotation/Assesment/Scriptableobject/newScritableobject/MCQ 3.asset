@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3dd1268a64a8d43ac8de41c4fa6ae4, type: 3}
+  m_Name: MCQ 3
+  m_EditorClassIdentifier: Assembly-CSharp::MCQQuestionSO
+  prompt: Q.4 What causes seasons?
+  points: 1
+  options:
+  - Rotation
+  - Revolution and tilt of the Earth
+  - Day and night
+  - Shadows
+  correctIndex: 1
+  shuffleOptions: 0
+  questionVO: {fileID: 8300000, guid: 50ac66617615f68478c9c10aed4ec984, type: 3}
+  optionVO:
+  - {fileID: 8300000, guid: aa9cfd14c28d2454b86ed89568bdea67, type: 3}
+  - {fileID: 8300000, guid: c6be6790ab16110478baa013814ea4a0, type: 3}
+  - {fileID: 8300000, guid: 54076b625be35a846a9603a392d66096, type: 3}
+  - {fileID: 8300000, guid: 798644c9dec44414684e4b0607ef58a8, type: 3}

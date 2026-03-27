@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3dd1268a64a8d43ac8de41c4fa6ae4, type: 3}
+  m_Name: MCQ 4
+  m_EditorClassIdentifier: Assembly-CSharp::MCQQuestionSO
+  prompt: Q.5 When we had no watches what instrument was used by the ancient people
+    to track time ?
+  points: 1
+  options:
+  - Sundial
+  - Wall Clock
+  - Hand Watch
+  - Sand Timer
+  correctIndex: 0
+  shuffleOptions: 0
+  questionVO: {fileID: 8300000, guid: 287fa3f2b70cb5a44a5acf52d540e509, type: 3}
+  optionVO:
+  - {fileID: 8300000, guid: 65d3f1952131b7b4ea3dee325d4a7a78, type: 3}
+  - {fileID: 8300000, guid: d3d7735b2bed0b046a9987423b681819, type: 3}
+  - {fileID: 8300000, guid: f6bbefb0c95f3484fa092560c235f25a, type: 3}
+  - {fileID: 8300000, guid: 62a338f8f24e3024a99ab142f6a1eb0b, type: 3}

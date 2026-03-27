@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 169f7b4d010e4e24f940f0bfa90c1d9c, type: 3}
+  m_Name: TF 1
+  m_EditorClassIdentifier: Assembly-CSharp::TrueFalseQuestionSO
+  prompt: ' Q.7 Rotation causes day and night.'
+  points: 1
+  answerTrue: 1
+  questionVO: {fileID: 8300000, guid: 8dacfa4cc2e807e42b476701a3f999f5, type: 3}
+  trueHoverVO: {fileID: 8300000, guid: 233fbb17ca8bfe64eb14b09828249495, type: 3}
+  falseHoverVO: {fileID: 8300000, guid: afe457073cc8d574999f042334fc349f, type: 3}
+  clickVO: {fileID: 0}

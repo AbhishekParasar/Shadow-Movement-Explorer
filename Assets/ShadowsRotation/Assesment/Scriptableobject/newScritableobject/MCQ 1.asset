@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3dd1268a64a8d43ac8de41c4fa6ae4, type: 3}
+  m_Name: MCQ 1
+  m_EditorClassIdentifier: Assembly-CSharp::MCQQuestionSO
+  prompt: Q.2 When the Sun is low in the sky, the shadow becomes
+  points: 1
+  options:
+  - Short
+  - Long
+  - No shadow
+  - Transparent
+  correctIndex: 1
+  shuffleOptions: 0
+  questionVO: {fileID: 8300000, guid: b6b6300ab631ef747a0ead16ec96bc6c, type: 3}
+  optionVO:
+  - {fileID: 8300000, guid: ff2032f88ef61ea498579293d54d4adf, type: 3}
+  - {fileID: 8300000, guid: 6d339d5a3f856d843b1e7dd2d4109aae, type: 3}
+  - {fileID: 8300000, guid: 05624d32bede97444ae97710dd5923c0, type: 3}
+  - {fileID: 8300000, guid: a165af0b7cda0c54da773dac17d6f677, type: 3}

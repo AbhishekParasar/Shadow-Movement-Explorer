@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25932af78eb0acc4b840506996ab1604, type: 3}
+  m_Name: New Question Set SO
+  m_EditorClassIdentifier: Assembly-CSharp::QuestionSetSO
+  questions:
+  - {fileID: 11400000, guid: 8dea21bd91b22174c916a8c56b7d8cde, type: 2}
+  - {fileID: 11400000, guid: 3f56fab3903ee9c46b99fb616811f865, type: 2}
+  - {fileID: 11400000, guid: 67d37cc35a3aab24d82307b0cd70f322, type: 2}
+  - {fileID: 11400000, guid: 3378586104fc7c148922d8b71fbdf0da, type: 2}
+  - {fileID: 11400000, guid: 2c742bd3a7cd3b4429c9e4d1794bd29a, type: 2}
+  - {fileID: 11400000, guid: bc861f63d1de11f4d9480b486379b4de, type: 2}
+  - {fileID: 11400000, guid: 5352b4214715125479a8227a282b7def, type: 2}
+  shuffleQuestions: 0

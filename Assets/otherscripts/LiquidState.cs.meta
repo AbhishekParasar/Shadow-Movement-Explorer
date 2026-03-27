@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: de69720aaaa95f24c9774ebfcda3ba90
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - moleculePrefab: {instanceID: 0}
+  - containerMesh: {fileID: 919132149155446097, guid: 3a8c59c0bcae2fa4a9c7bcc17d4ad73e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
